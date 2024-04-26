@@ -9,7 +9,8 @@
             "type": "debugpy",
             "request": "launch",
             "program": "${file}",
-            "console": "integratedTerminal"
+            "console": "integratedTerminal",
+            "args": ["sudhayakumar-mbp_ch157_2024-04-21_20.54.14.345.pcap", "--use_timestamp_ts_instead_of_mactime", "--bringup_plot_figure"]
         }
     ]
 }
